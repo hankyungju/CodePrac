@@ -17,7 +17,7 @@ public class DP {
 
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-
+        // hi
         int[] array;
         int[] a;
         int n = sc.nextInt();
